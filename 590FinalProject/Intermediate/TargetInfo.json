@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RDW",
+			"Path": "C:\\Users\\halea\\Documents\\Unreal Projects\\590-Final-Project\\590FinalProject\\Source\\RDW.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RDWEditor",
+			"Path": "C:\\Users\\halea\\Documents\\Unreal Projects\\590-Final-Project\\590FinalProject\\Source\\RDWEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
