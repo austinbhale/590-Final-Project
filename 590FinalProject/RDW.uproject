@@ -3,6 +3,16 @@
 	"EngineAssociation": "4.24",
 	"Category": "",
 	"Description": "",
+<<<<<<< HEAD
+=======
+	"Modules": [
+		{
+			"Name": "RDW",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+>>>>>>> 8c9c6f1592557de6bda58cbb4113f16b5301819a
 	"Plugins": [
 		{
 			"Name": "AdvancedSteamSessions",
