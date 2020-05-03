@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RDW.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\halea\Documents\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\RDWEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\halea\Documents\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\UE4Editor\Development\RDW\MyClass.cpp.obj"
+"C:\Users\halea\Documents\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\UE4Editor\Development\RDW\RDW.cpp.obj"
+"C:\Users\halea\Documents\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\UE4Editor\Development\RDW\Default.rc2.res"
+/OUT:"C:\Users\halea\Documents\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\UE4Editor\Development\RDW\UE4Editor-RDW.lib"
+/INCLUDE:IMPLEMENT_MODULE_RDW
