@@ -3711,3 +3711,705 @@ Scale3D: 1.000000 1.000000 1.000000
 [2020.05.04-04.30.01:377][840]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
 [2020.05.04-04.30.01:394][841]LogPlayLevel: Display: Destroying online subsystem :Context_61
 [2020.05.04-04.30.01:394][841]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2020.05.04-05.07.18:268][ 97]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-05.07.18:268][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-05.07.18:292][ 97]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-05.07.18:292][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-05.07.18:758][146]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-05.07.18:758][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-05.07.18:784][146]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-05.07.18:784][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-05.07.44:637][471]LogEditorViewport: Clicking on Actor (LMB): AmmoBox_C (AmmoBox2)
+[2020.05.04-05.07.59:289][150]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2020.05.04-05.08.11:588][489]LogSlate: Window 'ThirdPersonExampleMap' being destroyed
+[2020.05.04-05.08.39:190][719]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2020.05.04-05.08.39:593][719]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap5E0A2D0B4C237C57EE697E978EFB354D.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.08.39:634][719]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.498
+[2020.05.04-05.08.39:647][719]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.08.39:647][719]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.08.41:814][960]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.05.04-05.08.42:197][960]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap0E4D49F0413BC02BBBD87586A0ED44F2.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.08.42:232][960]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.475
+[2020.05.04-05.08.42:251][960]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.08.42:251][960]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.08.45:687][ 18]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.05.04-05.08.46:064][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.05.04-05.08.49:426][398]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.05.04-05.08.49:822][398]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMapBC943D8A4C5AB89ECD6811A22522849A.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.08.49:984][398]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap_BuiltData992BD3204AE3E9B4EBF23292F3318C0A.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.04-05.08.50:002][398]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.04-05.08.50:002][398]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.08.50:002][398]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.04-05.09.35:544][946]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.05.04-05.09.35:933][946]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMapC321AC4F4924AD9426827285BF3E5AEA.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.09.35:969][946]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.476
+[2020.05.04-05.09.35:983][946]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.09.35:983][946]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.09.55:840][745]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.04-05.09.58:932][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.05.04-05.09.58:938][ 92]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.05.04-05.09.58:938][ 92]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.05.04-05.09.59:336][ 92]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMapC643E80747A9E4CC03778080F3DC4601.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.09.59:371][ 92]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.484
+[2020.05.04-05.09.59:395][ 92]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.09.59:395][ 92]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.10.56:163][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.05.04-05.10.56:169][ 97]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.05.04-05.10.56:169][ 97]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.05.04-05.10.56:543][ 97]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMapB71230D341705C655619F58DD7B5A92B.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.10.56:577][ 97]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.465
+[2020.05.04-05.10.56:591][ 97]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.10.56:591][ 97]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.10.58:404][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.05.04-05.10.58:411][297]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.05.04-05.10.58:411][297]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.05.04-05.10.58:788][297]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMapB1DD2A44431191E057A97C8A2E25CF00.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.10.58:824][297]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.471
+[2020.05.04-05.10.58:843][297]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.10.58:843][297]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.27.43:322][590]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.05.04-05.27.43:811][590]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap_Auto53092B794416BFEAC3F1D6292D1224C40.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2020.05.04-05.27.43:814][590]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.557
+[2020.05.04-05.27.43:814][590]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.557
+[2020.05.04-05.29.11:365][436]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.05.04-05.29.11:752][436]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap3629C8D642D71651ECC2B5B889BADDB6.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.29.11:789][436]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.470
+[2020.05.04-05.29.11:801][436]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.29.11:801][436]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.29.13:816][657]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.05.04-05.29.14:219][657]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap927A09594DCDEB02F8ACA4A9C33B8921.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.29.14:257][657]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.491
+[2020.05.04-05.29.14:271][657]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.29.14:271][657]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.29.16:791][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.05.04-05.29.17:176][933]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMapF3711EB348BE2FE85737B1B63C98C280.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.29.17:213][933]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.481
+[2020.05.04-05.29.17:234][933]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.29.17:234][933]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.29.18:574][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.05.04-05.29.18:967][ 76]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap2FC224164F3BD91D84BD1FB60987F24C.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.29.19:003][ 76]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.478
+[2020.05.04-05.29.19:018][ 76]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.29.19:018][ 76]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.30.12:199][562]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.05.04-05.30.12:582][562]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.05.04-05.30.16:431][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.05.04-05.30.16:825][  2]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap2DF22AF24F06787FCEE884A99F49A218.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.30.16:860][  2]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.480
+[2020.05.04-05.30.16:873][  2]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.30.16:873][  2]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.41.14:694][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/a7/VRPawn" FILE="../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Maps/a7/VRPawn.uasset" SILENT=true
+[2020.05.04-05.41.14:896][785]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/VRPawn582E33EF43A7BD5C78BE25B022F0CB1E.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Maps/a7/VRPawn.uasset'
+[2020.05.04-05.41.14:917][785]AssetCheck: New page: Asset Save: VRPawn
+[2020.05.04-05.41.14:917][785]LogContentValidation: Display: Validating Blueprint /Game/Maps/a7/VRPawn.VRPawn
+[2020.05.04-05.42.38:072][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.04-05.42.38:768][282]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.05.04-05.42.43:049][786]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.05.04-05.42.43:500][834]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.05.04-05.42.44:041][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.04-05.42.53:334][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.04-05.42.57:962][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.04-05.42.58:585][617]LogEditorViewport: Clicking on Actor (LMB): AmmoBox_C (AmmoBox3)
+[2020.05.04-05.42.58:920][652]LogEditorViewport: Clicking on Actor (LMB): AmmoBox_C (AmmoBox3)
+[2020.05.04-05.53.43:311][534]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.05.04-05.53.43:726][534]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMapB06D31D04357697C25A64CB78CE00C30.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.53.43:762][534]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.512
+[2020.05.04-05.53.43:776][534]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.53.43:776][534]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.54.22:466][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.05.04-05.54.22:860][111]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMapCBC019C54D4D6B65C46172A7210A224B.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.54.22:895][111]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.480
+[2020.05.04-05.54.22:908][111]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.54.22:908][111]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.54.25:611][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.05.04-05.54.26:001][414]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap263FEF6243FA15ECC7A22792D8A309EE.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.54.26:036][414]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.474
+[2020.05.04-05.54.26:047][414]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.54.26:047][414]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-05.54.44:850][402]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-05.54.44:850][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-05.55.08:693][167]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.05.04-05.55.09:092][167]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap22A4797E4D6C24ED37D2629EBEE62463.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-05.55.09:131][167]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.488
+[2020.05.04-05.55.09:148][167]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-05.55.09:148][167]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-06.00.33:442][248]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2020.05.04-06.00.36:334][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.04-06.00.38:939][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.04-06.00.39:463][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.04-06.00.41:607][209]LogEditorViewport: Clicking on Actor (LMB): AmmoBox_C (AmmoBox3)
+[2020.05.04-06.00.47:794][945]LogEditorViewport: Clicking on Actor (LMB): AmmoBox_C (AmmoBox2)
+[2020.05.04-06.01.02:507][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.05.04-06.01.02:922][ 93]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap49F173954EFE11333DA22D98296D120C.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-06.01.02:961][ 93]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.505
+[2020.05.04-06.01.02:974][ 93]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-06.01.02:974][ 93]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-06.01.05:987][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.05.04-06.01.06:392][435]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap6A5814D94F7C0FCD5F66C2BCA07B6808.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-06.01.06:431][435]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.493
+[2020.05.04-06.01.06:445][435]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-06.01.06:445][435]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-06.01.09:023][726]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.05.04-06.01.09:419][726]LogSavePackage: Moving '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Saved/ThirdPersonExampleMap297309E4440DA8B13D5A55A9BFA2245D.tmp' to '../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.04-06.01.09:456][726]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.483
+[2020.05.04-06.01.09:470][726]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.05.04-06.01.09:470][726]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.04-06.01.10:883][885]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.04-06.01.10:913][885]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.04-06.01.10:913][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.04-06.01.10:913][885]PIE: New page: PIE session: ThirdPersonExampleMap (May 3, 2020, 10:01:10 PM)
+[2020.05.04-06.01.10:914][885]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.05.04-06.01.10:928][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013924s)
+[2020.05.04-06.01.10:929][885]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.04-06.01.10:930][885]LogPlayLevel: PIE: World Init took: (0.001689s)
+[2020.05.04-06.01.10:930][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015909s)
+[2020.05.04-06.01.10:982][885]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.05.04-06.01.10:985][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.04-06.01.10:985][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.04-06.01.10:985][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.04-06.01.10:985][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.04-06.01.10:985][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.04-06.01.10:985][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.04-06.01.10:985][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.04-06.01.10:985][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.04-06.01.10:986][885]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.04-06.01.10:986][885]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: Name: Headphones (CORSAIR HS60 SURROUND Gaming Dongle)
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: Is Default: Yes
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: Channel Order:
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: 1: FrontRight
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: 4: BackLeft
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: 5: BackRight
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: 6: SideLeft
+[2020.05.04-06.01.11:008][885]LogAudioMixer: Display: 7: SideRight
+[2020.05.04-06.01.11:127][885]LogAudioMixer: Display: Using Audio Device Headphones (CORSAIR HS60 SURROUND Gaming Dongle)
+[2020.05.04-06.01.11:133][885]LogInit: FAudioDevice initialized.
+[2020.05.04-06.01.11:161][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-06.01.11:161][885]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.04-06.01.11:164][885]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.04-02.01.11
+[2020.05.04-06.01.11:164][885]LogWorld: Bringing up level for play took: 0.002495
+[2020.05.04-06.01.11:165][885]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2020.05.04-06.01.11:169][885]LogOnline: OSS: Creating online subsystem instance for: STEAM
+[2020.05.04-06.01.11:169][885]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.05.04-06.01.11:169][885]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.05.04-06.01.11:169][885]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.05.04-06.01.11:170][885]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.05.04-06.01.11:170][885]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.05.04-06.01.11:170][885]LogNet: GameNetDriver IpNetDriver_36 IpNetDriver listening on port 17777
+[2020.05.04-06.01.11:171][885]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:171][885]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:171][885]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:171][885]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox4 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:171][885]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:171][885]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:171][885]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox7 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:171][885]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox8 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:171][885]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox9 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:182][885]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 0.973
+[2020.05.04-06.01.11:207][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-06.01.11:207][885]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.05.04-06.01.11:207][885]LogOnline: OSS: Creating online subsystem instance for: STEAM
+[2020.05.04-06.01.11:207][885]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.05.04-06.01.11:207][885]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.05.04-06.01.11:208][885]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.05.04-06.01.11:208][885]LogNet: Game client on port 17777, rate 10000
+[2020.05.04-06.01.11:211][885]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 1.003
+[2020.05.04-06.01.11:215][885]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.04-06.01.11:215][885]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50907
+[2020.05.04-06.01.11:215][885]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 158148127051003051090215175128075206000240112213089002154245
+[2020.05.04-06.01.11:218][885]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 158148127051003051090215175128075206000240112213089002154245
+[2020.05.04-06.01.11:264][886]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50907
+[2020.05.04-06.01.11:264][886]LogHandshake: SendChallengeAck. InCookie: 158148127051003051090215175128075206000240112213089002154245
+[2020.05.04-06.01.11:264][886]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50907
+[2020.05.04-06.01.11:265][886]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.05.04-06.01.11:265][886]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 05/04/20 02:01:11, [UNetConnection] RemoteAddr: 127.0.0.1:50907, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.05.04-06.01.11:265][886]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50907, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.05.04-06.01.11:266][886]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_36, Driver: PendingNetDriver IpNetDriver_37, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.05.04-06.01.11:280][887]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2020.05.04-06.01.11:280][887]LogNet: Remote platform little endian=1
+[2020.05.04-06.01.11:280][887]LogNet: This platform little endian=1
+[2020.05.04-06.01.11:280][887]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2020.05.04-06.01.11:288][888]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Surya-C61776B642E51BE513B970B47C2AE727 userId: NULL:Surya-C61776B642E51BE513B970B47C2AE727 platform: NULL
+[2020.05.04-06.01.11:289][888]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2020.05.04-06.01.11:290][888]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2020.05.04-06.01.11:290][888]LogWorld: BeginTearingDown for /Temp/Untitled_19
+[2020.05.04-06.01.11:290][888]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.11:290][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-06.01.11:290][888]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-06.01.11:340][888]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.05.04-06.01.11:353][888]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.04-06.01.11:356][888]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.04-02.01.11
+[2020.05.04-06.01.11:356][888]LogWorld: Bringing up level for play took: 0.001811
+[2020.05.04-06.01.11:357][888]LogLoad: Took 0.066935 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2020.05.04-06.01.11:366][889]LogNet: Client netspeed is 10000
+[2020.05.04-06.01.11:366][889]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Surya-C61776B642E51BE513B970B47C2AE727?SplitscreenCount=1
+[2020.05.04-06.01.11:366][889]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.05.04-06.01.11:368][889]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1540.000 Y=2023.557 Z=240.000] for [VRPawn_C]
+[2020.05.04-06.01.11:368][889]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type VRPawn_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 1540.000000 2023.556641 240.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2020.05.04-06.01.11:368][889]LogNet: Join succeeded: Surya-C61776B642E51B
+[2020.05.04-06.01.11:507][904]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:507][904]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:507][904]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:507][904]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox4 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:507][904]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:507][904]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:507][904]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox7 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:507][904]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox8 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:507][904]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AmmoBox9 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2020.05.04-06.01.11:613][916]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.05.04-06.01.11:680][924]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.05.04-06.01.18:579][691]LogBlueprintUserMessages: [VRPawn_C_0] Server: Ammo Increased
+[2020.05.04-06.01.18:615][695]LogBlueprintUserMessages: [VRPawn_C_0] Client 1: Ammo Increased
+[2020.05.04-06.01.22:364][134]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-06.01.22:370][134]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.04-06.01.22:400][134]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.04-06.01.22:400][134]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.04-06.01.22:400][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-06.01.22:400][134]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap
+[2020.05.04-06.01.22:419][134]LogSlate: Window 'RDW Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.04-06.01.22:421][134]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-06.01.22:421][134]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.22:422][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-06.01.22:428][134]LogNet: World NetDriver shutdown IpNetDriver_37 [GameNetDriver]
+[2020.05.04-06.01.22:428][134]LogNet: DestroyNamedNetDriver IpNetDriver_37 [GameNetDriver]
+[2020.05.04-06.01.22:428][134]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_36, Driver: GameNetDriver IpNetDriver_37, IsServer: NO, PC: ThirdPersonPlayerController_C_0, Owner: ThirdPersonPlayerController_C_0, UniqueId: NULL:Surya-C61776B642E51BE513B970B47C2AE727, Channels: 11, Time: 2020.05.04-06.01.22
+[2020.05.04-06.01.22:428][134]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_36, Driver: GameNetDriver IpNetDriver_37, IsServer: NO, PC: ThirdPersonPlayerController_C_0, Owner: ThirdPersonPlayerController_C_0, UniqueId: NULL:Surya-C61776B642E51BE513B970B47C2AE727
+[2020.05.04-06.01.22:428][134]LogExit: GameNetDriver IpNetDriver_37 shut down
+[2020.05.04-06.01.22:429][134]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2020.05.04-06.01.22:429][134]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.05.04-06.01.22:429][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-06.01.22:447][134]LogSlate: Window 'RDW Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.04-06.01.22:450][134]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-06.01.22:450][134]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.22:451][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-06.01.22:464][134]LogNet: World NetDriver shutdown IpNetDriver_36 [GameNetDriver]
+[2020.05.04-06.01.22:464][134]LogNet: DestroyNamedNetDriver IpNetDriver_36 [GameNetDriver]
+[2020.05.04-06.01.22:464][134]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50907, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: ThirdPersonPlayerController_C_1, Owner: ThirdPersonPlayerController_C_1, UniqueId: NULL:Surya-C61776B642E51BE513B970B47C2AE727
+[2020.05.04-06.01.22:464][134]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50907, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: ThirdPersonPlayerController_C_1, Owner: ThirdPersonPlayerController_C_1, UniqueId: NULL:Surya-C61776B642E51BE513B970B47C2AE727, Channels: 11, Time: 2020.05.04-06.01.22
+[2020.05.04-06.01.22:464][134]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50907, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: ThirdPersonPlayerController_C_1, Owner: ThirdPersonPlayerController_C_1, UniqueId: NULL:Surya-C61776B642E51BE513B970B47C2AE727
+[2020.05.04-06.01.22:464][134]LogExit: GameNetDriver IpNetDriver_36 shut down
+[2020.05.04-06.01.22:465][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.04-06.01.22:465][134]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.04-06.01.22:472][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-06.01.22:519][134]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-06.01.22:528][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.05.04-06.01.22:602][135]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2020.05.04-06.01.22:602][135]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.05.04-06.01.26:792][612]LogSlate: Window 'Message Log' being destroyed
+[2020.05.04-06.01.26:795][612]LogSlate: Window 'Message Log' being destroyed
+[2020.05.04-06.01.44:893][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.05.04-06.01.44:973][ 94]LogSlate: Window 'RDW - Unreal Editor' being destroyed
+[2020.05.04-06.01.45:052][ 94]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.04-06.01.45:052][ 94]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.45:052][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-06.01.45:249][ 94]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.04-06.01.45:250][ 94]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.45:250][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-06.01.45:457][ 94]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.45:457][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-06.01.45:707][ 95]Cmd: QUIT_EDITOR
+[2020.05.04-06.01.45:707][ 95]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.04-06.01.45:724][ 95]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.04-06.01.45:724][ 95]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-06.01.45:825][ 95]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.04-06.01.45:845][ 95]LogExit: Preparing to exit.
+[2020.05.04-06.01.46:457][ 95]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:462][ 95]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:466][ 95]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:472][ 95]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:477][ 95]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:481][ 95]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:486][ 95]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:490][ 95]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:493][ 95]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:497][ 95]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:501][ 95]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:508][ 95]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:513][ 95]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:517][ 95]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:522][ 95]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:526][ 95]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:608][ 95]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.04-06.01.46:629][ 95]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-06.01.46:630][ 95]LogExit: Editor shut down
+[2020.05.04-06.01.46:631][ 95]LogExit: Transaction tracking system shut down
+[2020.05.04-06.01.47:102][ 95]LogExit: Object subsystem successfully closed.
+[2020.05.04-06.01.47:135][ 95]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.04-06.01.47:169][ 95]LogModuleManager: Shutting down and abandoning module SequencerWidgets (726)
+[2020.05.04-06.01.47:169][ 95]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (722)
+[2020.05.04-06.01.47:169][ 95]LogModuleManager: Shutting down and abandoning module Voice (720)
+[2020.05.04-06.01.47:169][ 95]LogModuleManager: Shutting down and abandoning module BlueprintGraph (718)
+[2020.05.04-06.01.47:170][ 95]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (716)
+[2020.05.04-06.01.47:170][ 95]LogModuleManager: Shutting down and abandoning module SceneOutliner (714)
+[2020.05.04-06.01.47:170][ 95]LogModuleManager: Shutting down and abandoning module AddContentDialog (712)
+[2020.05.04-06.01.47:173][ 95]LogModuleManager: Shutting down and abandoning module WidgetCarousel (711)
+[2020.05.04-06.01.47:173][ 95]LogModuleManager: Shutting down and abandoning module EditorWidgets (708)
+[2020.05.04-06.01.47:173][ 95]LogModuleManager: Shutting down and abandoning module CollectionManager (706)
+[2020.05.04-06.01.47:173][ 95]LogModuleManager: Shutting down and abandoning module StatsViewer (704)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (702)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module FoliageEdit (700)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module LandscapeEditor (698)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module MeshPaintMode (696)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (694)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module ActorPickerMode (692)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module GeometryMode (690)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module TextureAlignMode (688)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module BspMode (686)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (684)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (682)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module AutomationWorker (680)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module SteamVREditor (678)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module SteamAudioEditor (676)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (674)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module OculusMR (672)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module OculusAudioEditor (670)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (668)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (666)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (664)
+[2020.05.04-06.01.47:174][ 95]LogModuleManager: Shutting down and abandoning module PlacementMode (663)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module MaterialEditor (662)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (658)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (656)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (654)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (652)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (650)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module WebMMedia (648)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (646)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (644)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module SequenceRecorder (643)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (640)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (638)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (636)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (634)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (632)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (630)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (628)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (626)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (624)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (622)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module CharacterAI (620)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module SmartSnapping (618)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module SessionServices (616)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module MeshPaint (614)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module ViewportSnapping (612)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module ViewportInteraction (610)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module ClothPainter (608)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (607)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module LogVisualizer (604)
+[2020.05.04-06.01.47:175][ 95]LogModuleManager: Shutting down and abandoning module IntroTutorials (602)
+[2020.05.04-06.01.47:177][ 95]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (601)
+[2020.05.04-06.01.47:177][ 95]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (598)
+[2020.05.04-06.01.47:177][ 95]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (596)
+[2020.05.04-06.01.47:177][ 95]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (594)
+[2020.05.04-06.01.47:177][ 95]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (593)
+[2020.05.04-06.01.48:758][ 95]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (590)
+[2020.05.04-06.01.48:758][ 95]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (588)
+[2020.05.04-06.01.48:758][ 95]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (586)
+[2020.05.04-06.01.48:758][ 95]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (584)
+[2020.05.04-06.01.48:758][ 95]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (582)
+[2020.05.04-06.01.48:758][ 95]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (580)
+[2020.05.04-06.01.48:758][ 95]LogModuleManager: Shutting down and abandoning module InputBindingEditor (578)
+[2020.05.04-06.01.48:758][ 95]LogModuleManager: Shutting down and abandoning module MergeActors (576)
+[2020.05.04-06.01.48:760][ 95]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (574)
+[2020.05.04-06.01.48:760][ 95]LogModuleManager: Shutting down and abandoning module LocalizationService (573)
+[2020.05.04-06.01.48:760][ 95]LogModuleManager: Shutting down and abandoning module HardwareTargeting (570)
+[2020.05.04-06.01.48:761][ 95]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (568)
+[2020.05.04-06.01.48:761][ 95]LogModuleManager: Shutting down and abandoning module UndoHistory (566)
+[2020.05.04-06.01.48:761][ 95]LogModuleManager: Shutting down and abandoning module XmlParser (564)
+[2020.05.04-06.01.48:761][ 95]LogModuleManager: Shutting down and abandoning module Blutility (562)
+[2020.05.04-06.01.48:761][ 95]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (560)
+[2020.05.04-06.01.48:762][ 95]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (559)
+[2020.05.04-06.01.48:763][ 95]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (556)
+[2020.05.04-06.01.48:763][ 95]LogModuleManager: Shutting down and abandoning module SettingsEditor (554)
+[2020.05.04-06.01.48:764][ 95]LogModuleManager: Shutting down and abandoning module ProjectLauncher (552)
+[2020.05.04-06.01.48:765][ 95]LogModuleManager: Shutting down and abandoning module SessionFrontend (550)
+[2020.05.04-06.01.48:765][ 95]LogModuleManager: Shutting down and abandoning module ProfilerClient (548)
+[2020.05.04-06.01.48:766][ 95]LogModuleManager: Shutting down and abandoning module DeviceManager (546)
+[2020.05.04-06.01.48:766][ 95]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (545)
+[2020.05.04-06.01.48:799][ 95]LogModuleManager: Shutting down and abandoning module AutomationController (542)
+[2020.05.04-06.01.48:800][ 95]LogModuleManager: Shutting down and abandoning module AutomationWindow (540)
+[2020.05.04-06.01.48:801][ 95]LogModuleManager: Shutting down and abandoning module Layers (538)
+[2020.05.04-06.01.48:802][ 95]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (536)
+[2020.05.04-06.01.48:802][ 95]LogModuleManager: Shutting down and abandoning module DetailCustomizations (534)
+[2020.05.04-06.01.48:803][ 95]LogModuleManager: Shutting down and abandoning module PackagesDialog (532)
+[2020.05.04-06.01.48:803][ 95]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (530)
+[2020.05.04-06.01.48:805][ 95]LogModuleManager: Shutting down and abandoning module Persona (528)
+[2020.05.04-06.01.48:807][ 95]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (527)
+[2020.05.04-06.01.48:807][ 95]LogModuleManager: Shutting down and abandoning module AnimGraph (525)
+[2020.05.04-06.01.48:808][ 95]LogModuleManager: Shutting down and abandoning module Kismet (522)
+[2020.05.04-06.01.48:839][ 95]LogModuleManager: Shutting down and abandoning module KismetWidgets (521)
+[2020.05.04-06.01.48:839][ 95]LogModuleManager: Shutting down and abandoning module GraphEditor (518)
+[2020.05.04-06.01.48:839][ 95]LogModuleManager: Shutting down and abandoning module StructViewer (516)
+[2020.05.04-06.01.48:839][ 95]LogModuleManager: Shutting down and abandoning module ClassViewer (514)
+[2020.05.04-06.01.48:842][ 95]LogModuleManager: Shutting down and abandoning module Toolbox (512)
+[2020.05.04-06.01.48:842][ 95]LogModuleManager: Shutting down and abandoning module ModuleUI (510)
+[2020.05.04-06.01.48:843][ 95]LogModuleManager: Shutting down and abandoning module OutputLog (508)
+[2020.05.04-06.01.48:854][ 95]LogModuleManager: Shutting down and abandoning module GammaUI (506)
+[2020.05.04-06.01.48:855][ 95]LogModuleManager: Shutting down and abandoning module Documentation (504)
+[2020.05.04-06.01.48:858][ 95]LogModuleManager: Shutting down and abandoning module ToolMenus (502)
+[2020.05.04-06.01.48:858][ 95]LogModuleManager: Shutting down and abandoning module LiveCoding (500)
+[2020.05.04-06.01.48:859][ 95]LogModuleManager: Shutting down and abandoning module LevelSequence (498)
+[2020.05.04-06.01.48:860][ 95]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (496)
+[2020.05.04-06.01.48:860][ 95]LogModuleManager: Shutting down and abandoning module MovieScene (494)
+[2020.05.04-06.01.48:860][ 95]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (492)
+[2020.05.04-06.01.48:860][ 95]LogModuleManager: Shutting down and abandoning module LauncherPlatform (490)
+[2020.05.04-06.01.48:860][ 95]LogModuleManager: Shutting down and abandoning module AnalyticsET (488)
+[2020.05.04-06.01.48:860][ 95]LogModuleManager: Shutting down and abandoning module PortalServices (486)
+[2020.05.04-06.01.48:860][ 95]LogModuleManager: Shutting down and abandoning module PortalRpc (484)
+[2020.05.04-06.01.48:860][ 95]LogModuleManager: Shutting down and abandoning module MessagingRpc (482)
+[2020.05.04-06.01.48:860][ 95]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (480)
+[2020.05.04-06.01.48:860][ 95]LogModuleManager: Shutting down and abandoning module AIModule (478)
+[2020.05.04-06.01.48:860][ 95]LogModuleManager: Shutting down and abandoning module GameplayDebugger (477)
+[2020.05.04-06.01.48:861][ 95]LogModuleManager: Shutting down and abandoning module AITestSuite (475)
+[2020.05.04-06.01.48:861][ 95]LogModuleManager: Shutting down and abandoning module NavigationSystem (473)
+[2020.05.04-06.01.48:861][ 95]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (470)
+[2020.05.04-06.01.48:864][ 95]LogModuleManager: Shutting down and abandoning module ProfilerService (468)
+[2020.05.04-06.01.49:044][ 95]LogModuleManager: Shutting down and abandoning module TaskGraph (466)
+[2020.05.04-06.01.49:045][ 95]LogModuleManager: Shutting down and abandoning module ScreenshotTools (464)
+[2020.05.04-06.01.49:045][ 95]LogModuleManager: Shutting down and abandoning module ResonanceAudio (462)
+[2020.05.04-06.01.49:045][ 95]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (460)
+[2020.05.04-06.01.49:045][ 95]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (458)
+[2020.05.04-06.01.49:046][ 95]LogModuleManager: Shutting down and abandoning module OculusEditor (456)
+[2020.05.04-06.01.49:046][ 95]LogModuleManager: Shutting down and abandoning module OculusInput (454)
+[2020.05.04-06.01.49:046][ 95]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (452)
+[2020.05.04-06.01.49:046][ 95]LogModuleManager: Shutting down and abandoning module EditableMesh (450)
+[2020.05.04-06.01.49:047][ 95]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (448)
+[2020.05.04-06.01.49:047][ 95]LogModuleManager: Shutting down and abandoning module CableComponent (446)
+[2020.05.04-06.01.49:047][ 95]LogModuleManager: Shutting down and abandoning module AudioCapture (444)
+[2020.05.04-06.01.49:047][ 95]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (443)
+[2020.05.04-06.01.49:047][ 95]LogModuleManager: Shutting down and abandoning module AssetTags (440)
+[2020.05.04-06.01.49:047][ 95]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (438)
+[2020.05.04-06.01.49:047][ 95]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (436)
+[2020.05.04-06.01.49:047][ 95]LogModuleManager: Shutting down and abandoning module AppleImageUtils (434)
+[2020.05.04-06.01.49:047][ 95]LogModuleManager: Shutting down and abandoning module AndroidPermission (432)
+[2020.05.04-06.01.49:047][ 95]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (430)
+[2020.05.04-06.01.49:047][ 95]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (428)
+[2020.05.04-06.01.49:049][ 95]LogModuleManager: Shutting down and abandoning module MediaCompositing (426)
+[2020.05.04-06.01.49:049][ 95]LogModuleManager: Shutting down and abandoning module ImgMedia (424)
+[2020.05.04-06.01.49:049][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (422)
+[2020.05.04-06.01.49:049][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (420)
+[2020.05.04-06.01.49:049][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (418)
+[2020.05.04-06.01.49:050][ 95]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (416)
+[2020.05.04-06.01.49:050][ 95]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (414)
+[2020.05.04-06.01.49:050][ 95]LogModuleManager: Shutting down and abandoning module BackChannel (412)
+[2020.05.04-06.01.49:051][ 95]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (410)
+[2020.05.04-06.01.49:051][ 95]LogModuleManager: Shutting down and abandoning module AutomationUtils (408)
+[2020.05.04-06.01.49:051][ 95]LogModuleManager: Shutting down and abandoning module AlembicImporter (406)
+[2020.05.04-06.01.49:051][ 95]LogModuleManager: Shutting down and abandoning module AlembicLibrary (405)
+[2020.05.04-06.01.49:052][ 95]LogModuleManager: Shutting down and abandoning module GeometryCache (404)
+[2020.05.04-06.01.49:052][ 95]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (403)
+[2020.05.04-06.01.49:052][ 95]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (398)
+[2020.05.04-06.01.49:052][ 95]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (396)
+[2020.05.04-06.01.49:053][ 95]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (394)
+[2020.05.04-06.01.49:053][ 95]LogModuleManager: Shutting down and abandoning module PluginBrowser (392)
+[2020.05.04-06.01.49:053][ 95]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (390)
+[2020.05.04-06.01.49:054][ 95]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (388)
+[2020.05.04-06.01.49:054][ 95]LogModuleManager: Shutting down and abandoning module CurveEditorTools (386)
+[2020.05.04-06.01.49:055][ 95]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (384)
+[2020.05.04-06.01.49:055][ 95]LogModuleManager: Shutting down and abandoning module CryptoKeys (382)
+[2020.05.04-06.01.49:055][ 95]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (380)
+[2020.05.04-06.01.49:055][ 95]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (378)
+[2020.05.04-06.01.49:055][ 95]LogModuleManager: Shutting down and abandoning module UObjectPlugin (376)
+[2020.05.04-06.01.49:055][ 95]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (374)
+[2020.05.04-06.01.49:056][ 95]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (372)
+[2020.05.04-06.01.49:057][ 95]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (370)
+[2020.05.04-06.01.49:059][ 95]LogModuleManager: Shutting down and abandoning module GitSourceControl (368)
+[2020.05.04-06.01.49:059][ 95]LogModuleManager: Shutting down and abandoning module SourceControl (367)
+[2020.05.04-06.01.49:059][ 95]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (364)
+[2020.05.04-06.01.49:060][ 95]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (362)
+[2020.05.04-06.01.49:060][ 95]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (360)
+[2020.05.04-06.01.49:060][ 95]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (358)
+[2020.05.04-06.01.49:060][ 95]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (356)
+[2020.05.04-06.01.49:060][ 95]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (354)
+[2020.05.04-06.01.49:060][ 95]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (352)
+[2020.05.04-06.01.49:060][ 95]LogModuleManager: Shutting down and abandoning module Paper2DEditor (350)
+[2020.05.04-06.01.49:062][ 95]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (348)
+[2020.05.04-06.01.49:062][ 95]LogModuleManager: Shutting down and abandoning module AdvancedSessions (346)
+[2020.05.04-06.01.49:062][ 95]LogModuleManager: Shutting down and abandoning module SteamAudio (344)
+[2020.05.04-06.01.49:062][ 95]LogSteamAudio: FSteamAudioModule Shutdown
+[2020.05.04-06.01.49:065][ 95]LogModuleManager: Shutting down and abandoning module SignificanceManager (342)
+[2020.05.04-06.01.49:066][ 95]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (340)
+[2020.05.04-06.01.49:066][ 95]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (338)
+[2020.05.04-06.01.49:066][ 95]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (334)
+[2020.05.04-06.01.49:066][ 95]LogModuleManager: Shutting down and abandoning module ActorSequence (332)
+[2020.05.04-06.01.49:066][ 95]LogModuleManager: Shutting down and abandoning module UdpMessaging (330)
+[2020.05.04-06.01.49:167][ 95]LogModuleManager: Shutting down and abandoning module TcpMessaging (328)
+[2020.05.04-06.01.49:268][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (326)
+[2020.05.04-06.01.49:268][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (324)
+[2020.05.04-06.01.49:269][ 95]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.05.04-06.01.49:269][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (322)
+[2020.05.04-06.01.49:269][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (320)
+[2020.05.04-06.01.49:269][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (318)
+[2020.05.04-06.01.49:269][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (316)
+[2020.05.04-06.01.49:269][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (314)
+[2020.05.04-06.01.49:270][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (312)
+[2020.05.04-06.01.49:270][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapController (310)
+[2020.05.04-06.01.49:270][ 95]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.04-06.01.49:270][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (308)
+[2020.05.04-06.01.49:270][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapAR (306)
+[2020.05.04-06.01.49:271][ 95]LogModuleManager: Shutting down and abandoning module AugmentedReality (305)
+[2020.05.04-06.01.49:271][ 95]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (302)
+[2020.05.04-06.01.49:271][ 95]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (300)
+[2020.05.04-06.01.49:271][ 95]LogModuleManager: Shutting down and abandoning module FacialAnimation (298)
+[2020.05.04-06.01.49:271][ 95]LogModuleManager: Shutting down and abandoning module DataValidation (296)
+[2020.05.04-06.01.49:271][ 95]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (294)
+[2020.05.04-06.01.49:273][ 95]LogModuleManager: Shutting down and abandoning module LevelEditor (293)
+[2020.05.04-06.01.49:275][ 95]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (292)
+[2020.05.04-06.01.49:277][ 95]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (290)
+[2020.05.04-06.01.49:277][ 95]LogModuleManager: Shutting down and abandoning module MainFrame (288)
+[2020.05.04-06.01.49:277][ 95]LogModuleManager: Shutting down and abandoning module HotReload (287)
+[2020.05.04-06.01.49:278][ 95]LogModuleManager: Shutting down and abandoning module ContentBrowser (283)
+[2020.05.04-06.01.49:283][ 95]LogModuleManager: Shutting down and abandoning module TreeMap (281)
+[2020.05.04-06.01.49:283][ 95]LogModuleManager: Shutting down and abandoning module AnimationSharing (278)
+[2020.05.04-06.01.49:283][ 95]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (276)
+[2020.05.04-06.01.49:283][ 95]LogModuleManager: Shutting down and abandoning module Paper2D (274)
+[2020.05.04-06.01.49:284][ 95]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (272)
+[2020.05.04-06.01.49:289][ 95]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (270)
+[2020.05.04-06.01.49:289][ 95]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (268)
+[2020.05.04-06.01.49:289][ 95]LogModuleManager: Shutting down and abandoning module PacketHandler (266)
+[2020.05.04-06.01.49:290][ 95]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (264)
+[2020.05.04-06.01.49:290][ 95]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (262)
+[2020.05.04-06.01.49:290][ 95]LogModuleManager: Shutting down and abandoning module MediaAssets (260)
+[2020.05.04-06.01.49:291][ 95]LogModuleManager: Shutting down and abandoning module Overlay (258)
+[2020.05.04-06.01.49:291][ 95]LogModuleManager: Shutting down and abandoning module OverlayEditor (257)
+[2020.05.04-06.01.49:291][ 95]LogModuleManager: Shutting down and abandoning module VREditor (254)
+[2020.05.04-06.01.49:291][ 95]LogModuleManager: Shutting down and abandoning module StringTableEditor (252)
+[2020.05.04-06.01.49:292][ 95]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (250)
+[2020.05.04-06.01.49:292][ 95]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (248)
+[2020.05.04-06.01.49:294][ 95]LogModuleManager: Shutting down and abandoning module FunctionalTesting (246)
+[2020.05.04-06.01.49:295][ 95]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (244)
+[2020.05.04-06.01.49:296][ 95]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.05.04-06.01.49:296][ 95]LogModuleManager: Shutting down and abandoning module UMG (240)
+[2020.05.04-06.01.49:296][ 95]LogModuleManager: Shutting down and abandoning module UMGEditor (239)
+[2020.05.04-06.01.49:296][ 95]LogModuleManager: Shutting down and abandoning module MessageLog (237)
+[2020.05.04-06.01.49:296][ 95]LogModuleManager: Shutting down and abandoning module SlateReflector (232)
+[2020.05.04-06.01.49:298][ 95]LogModuleManager: Shutting down and abandoning module Slate (230)
+[2020.05.04-06.01.49:298][ 95]LogModuleManager: Shutting down and abandoning module SlateCore (228)
+[2020.05.04-06.01.49:298][ 95]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (226)
+[2020.05.04-06.01.49:298][ 95]LogModuleManager: Shutting down and abandoning module UnrealEd (224)
+[2020.05.04-06.01.49:298][ 95]LogModuleManager: Shutting down and abandoning module MRMesh (222)
+[2020.05.04-06.01.49:298][ 95]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (220)
+[2020.05.04-06.01.49:298][ 95]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (218)
+[2020.05.04-06.01.49:298][ 95]LogModuleManager: Shutting down and abandoning module XAudio2 (216)
+[2020.05.04-06.01.49:298][ 95]LogModuleManager: Shutting down and abandoning module Networking (214)
+[2020.05.04-06.01.49:298][ 95]LogModuleManager: Shutting down and abandoning module Core (212)
+[2020.05.04-06.01.49:298][ 95]LogModuleManager: Shutting down and abandoning module MovieSceneTools (210)
+[2020.05.04-06.01.49:299][ 95]LogModuleManager: Shutting down and abandoning module CurveEditor (209)
+[2020.05.04-06.01.49:299][ 95]LogModuleManager: Shutting down and abandoning module Sequencer (207)
+[2020.05.04-06.01.49:300][ 95]LogModuleManager: Shutting down and abandoning module EditorStyle (206)
+[2020.05.04-06.01.49:304][ 95]LogModuleManager: Shutting down and abandoning module KismetCompiler (202)
+[2020.05.04-06.01.49:304][ 95]LogModuleManager: Shutting down and abandoning module MeshUtilities (200)
+[2020.05.04-06.01.49:304][ 95]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (199)
+[2020.05.04-06.01.49:305][ 95]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (198)
+[2020.05.04-06.01.49:305][ 95]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (197)
+[2020.05.04-06.01.49:305][ 95]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (195)
+[2020.05.04-06.01.49:306][ 95]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (193)
+[2020.05.04-06.01.49:307][ 95]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (191)
+[2020.05.04-06.01.49:308][ 95]LogModuleManager: Shutting down and abandoning module MaterialBaking (187)
+[2020.05.04-06.01.49:309][ 95]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (182)
+[2020.05.04-06.01.49:309][ 95]LogModuleManager: Shutting down and abandoning module DerivedDataCache (180)
+[2020.05.04-06.01.49:309][ 95]LogDerivedDataCache: Shutdown
+[2020.05.04-06.01.49:309][ 95]LogModuleManager: Shutting down and abandoning module XGEController (178)
+[2020.05.04-06.01.49:309][ 95]LogModuleManager: Shutting down and abandoning module TargetPlatform (176)
+[2020.05.04-06.01.49:309][ 95]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (175)
+[2020.05.04-06.01.49:310][ 95]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (173)
+[2020.05.04-06.01.49:310][ 95]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (171)
+[2020.05.04-06.01.49:310][ 95]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (169)
+[2020.05.04-06.01.49:310][ 95]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (167)
+[2020.05.04-06.01.49:311][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (165)
+[2020.05.04-06.01.49:311][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (163)
+[2020.05.04-06.01.49:311][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (161)
+[2020.05.04-06.01.49:312][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (159)
+[2020.05.04-06.01.49:312][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (157)
+[2020.05.04-06.01.49:312][ 95]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2020.05.04-06.01.49:312][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (153)
+[2020.05.04-06.01.49:312][ 95]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (151)
+[2020.05.04-06.01.49:312][ 95]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (149)
+[2020.05.04-06.01.49:312][ 95]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (147)
+[2020.05.04-06.01.49:313][ 95]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (145)
+[2020.05.04-06.01.49:313][ 95]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (143)
+[2020.05.04-06.01.49:313][ 95]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (141)
+[2020.05.04-06.01.49:313][ 95]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (139)
+[2020.05.04-06.01.49:313][ 95]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (137)
+[2020.05.04-06.01.49:324][ 95]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (135)
+[2020.05.04-06.01.49:330][ 95]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (133)
+[2020.05.04-06.01.49:330][ 95]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (131)
+[2020.05.04-06.01.49:330][ 95]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (129)
+[2020.05.04-06.01.49:331][ 95]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (127)
+[2020.05.04-06.01.49:331][ 95]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (125)
+[2020.05.04-06.01.49:331][ 95]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.05.04-06.01.49:331][ 95]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.05.04-06.01.49:331][ 95]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.05.04-06.01.49:339][ 95]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.05.04-06.01.49:375][ 95]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.05.04-06.01.49:375][ 95]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.05.04-06.01.49:375][ 95]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.05.04-06.01.49:375][ 95]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.05.04-06.01.49:376][ 95]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.05.04-06.01.49:376][ 95]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.05.04-06.01.49:378][ 95]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.05.04-06.01.49:378][ 95]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.05.04-06.01.49:378][ 95]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.05.04-06.01.49:378][ 95]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.05.04-06.01.49:378][ 95]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (94)
+[2020.05.04-06.01.49:379][ 95]LogModuleManager: Shutting down and abandoning module SteamVRInput (92)
+[2020.05.04-06.01.49:379][ 95]LogModuleManager: Shutting down and abandoning module SteamVR (90)
+[2020.05.04-06.01.49:379][ 95]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.04-06.01.49:380][ 95]LogModuleManager: Shutting down and abandoning module OculusHMD (88)
+[2020.05.04-06.01.49:380][ 95]LogModuleManager: Shutting down and abandoning module OculusAudio (86)
+[2020.05.04-06.01.49:383][ 95]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.05.04-06.01.49:383][ 95]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.05.04-06.01.49:383][ 95]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.05.04-06.01.49:383][ 95]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.05.04-06.01.49:385][ 95]LogModuleManager: Shutting down and abandoning module SteamShared (70)
+[2020.05.04-06.01.49:385][ 95]LogSteamShared: Freeing the Steam Loaded Modules...
+[2020.05.04-06.01.49:385][ 95]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.05.04-06.01.49:386][ 95]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.05.04-06.01.49:412][ 95]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.05.04-06.01.49:413][ 95]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.05.04-06.01.49:413][ 95]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B238B3068-4758-688D-7CA9-288ED2A74D64%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=ab75ad0b4ca8ac7a7103bbb75aca0a7e%7Ce8b9853f26774465b4bfc2da0924088b%7Cd1cd851b-fe2b-4bab-b0c9-47fc35aef94e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.04-06.01.49:413][ 95]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B238B3068-4758-688D-7CA9-288ED2A74D64%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=ab75ad0b4ca8ac7a7103bbb75aca0a7e%7Ce8b9853f26774465b4bfc2da0924088b%7Cd1cd851b-fe2b-4bab-b0c9-47fc35aef94e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.04-06.01.49:444][ 95]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.05.04-06.01.49:446][ 95]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.05.04-06.01.49:448][ 95]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.05.04-06.01.49:449][ 95]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.05.04-06.01.49:449][ 95]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.05.04-06.01.49:449][ 95]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.05.04-06.01.49:449][ 95]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.05.04-06.01.49:449][ 95]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.05.04-06.01.49:449][ 95]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.05.04-06.01.49:450][ 95]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.05.04-06.01.49:450][ 95]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.04-06.01.49:450][ 95]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.04-06.01.49:450][ 95]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.04-06.01.49:455][ 95]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.04-06.01.49:456][ 95]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.04-06.01.49:457][ 95]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.04-06.01.49:457][ 95]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.04-06.01.49:457][ 95]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.04-06.01.49:462][ 95]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.04-06.01.49:463][ 95]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.04-06.01.49:463][ 95]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.04-06.01.49:464][ 95]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.04-06.01.49:464][ 95]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.04-06.01.49:464][ 95]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.04-06.01.49:464][ 95]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.04-06.01.49:465][ 95]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.04-06.01.49:465][ 95]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.04-06.01.49:465][ 95]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.04-06.01.49:465][ 95]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.04-06.01.49:465][ 95]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.04-06.01.49:475][ 95]LogD3D11RHI: Shutdown
+[2020.05.04-06.01.49:475][ 95]LogD3D11RHI: CleanupD3DDevice
+[2020.05.04-06.01.49:505][ 95]LogExit: Exiting.
+[2020.05.04-06.01.49:532][ 95]Log file closed, 05/04/20 02:01:49
