@@ -5,14 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "AdvancedSteamSessions",
-			"Enabled": true
-		},
-		{
-			"Name": "AdvancedSessions",
-			"Enabled": true
-		},
-		{
 			"Name": "OculusAudio",
 			"Enabled": true
 		},
@@ -22,6 +14,14 @@
 		},
 		{
 			"Name": "SteamAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSteamSessions",
 			"Enabled": true
 		}
 	]

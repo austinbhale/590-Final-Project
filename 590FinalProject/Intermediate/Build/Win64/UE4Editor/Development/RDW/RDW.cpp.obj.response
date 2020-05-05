@@ -31,7 +31,7 @@
 /wd4838
 /we4668
 /I .
-/I "C:\Users\halea\Documents\Unreal Projects\590-Final-Project\590FinalProject\Source"
+/I "C:\Users\halea\Desktop\Unreal Projects\590-Final-Project\590FinalProject\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -258,12 +258,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\halea\Documents\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\RDWEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\halea\Documents\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\RDWEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\halea\Documents\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\RDWEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\halea\Documents\Unreal Projects\590-Final-Project\590FinalProject\Source\RDW\RDW.cpp"
-/FI"C:\Users\halea\Documents\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\UE4Editor\Development\RDW\Definitions.RDW.h"
-/Fo"C:\Users\halea\Documents\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\UE4Editor\Development\RDW\RDW.cpp.obj"
+/FI"C:\Users\halea\Desktop\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\RDWEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\halea\Desktop\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\RDWEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\halea\Desktop\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\RDWEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\halea\Desktop\Unreal Projects\590-Final-Project\590FinalProject\Source\RDW\RDW.cpp"
+/FI"C:\Users\halea\Desktop\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\UE4Editor\Development\RDW\Definitions.RDW.h"
+/Fo"C:\Users\halea\Desktop\Unreal Projects\590-Final-Project\590FinalProject\Intermediate\Build\Win64\UE4Editor\Development\RDW\RDW.cpp.obj"
 /TP
 /GR-
 /W4

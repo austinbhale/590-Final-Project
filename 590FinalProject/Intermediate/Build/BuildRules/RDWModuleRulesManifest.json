@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\halea\\Documents\\Unreal Projects\\590-Final-Project\\590FinalProject\\Source\\RDW\\RDW.Build.cs",
-		"C:\\Users\\halea\\Documents\\Unreal Projects\\590-Final-Project\\590FinalProject\\Plugins\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
-		"C:\\Users\\halea\\Documents\\Unreal Projects\\590-Final-Project\\590FinalProject\\Plugins\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
-		"C:\\Users\\halea\\Documents\\Unreal Projects\\590-Final-Project\\590FinalProject\\Source\\RDW.Target.cs",
-		"C:\\Users\\halea\\Documents\\Unreal Projects\\590-Final-Project\\590FinalProject\\Source\\RDWEditor.Target.cs"
+		"C:\\Users\\halea\\Desktop\\Unreal Projects\\590-Final-Project\\590FinalProject\\Source\\RDW\\RDW.Build.cs",
+		"C:\\Users\\halea\\Desktop\\Unreal Projects\\590-Final-Project\\590FinalProject\\Plugins\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\halea\\Desktop\\Unreal Projects\\590-Final-Project\\590FinalProject\\Plugins\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\halea\\Desktop\\Unreal Projects\\590-Final-Project\\590FinalProject\\Source\\RDW.Target.cs",
+		"C:\\Users\\halea\\Desktop\\Unreal Projects\\590-Final-Project\\590FinalProject\\Source\\RDWEditor.Target.cs"
 	],
 	"EngineVersion": "4.24.3"
 }
