@@ -141,7 +141,6 @@ are important in the field of VR development. In an optimal setting our results 
 factors that effect immersion in a virtual world. And analysing these factors in different settings will
 help game-makers and creators push their creative limits. Furthermore, multiplayer in VR is fairly
 untested, our analysis in these areas could help transform how VR is played.
-Github + Demo: https://github.com/austinbhale/590-Final-Project.
 
 ### Challenges
 
