@@ -1,4 +1,4 @@
-# 590-Final-Project
+# VR Gunfight
 
 Here's the link to our demo of the project.
 
