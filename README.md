@@ -8,7 +8,7 @@ Here's the link to our demo of the project.
 
 [Demo](https://drive.google.com/file/d/1OnIbGshibSVrg5oBrT1f149j9raDC0T6/view?usp=sharing)
 
-In order to play this game, you need to have Unreal Engine 4.2+ installed. Then clone this repository and start the project. Delete the contents in your plugins folder and replace with the contents found (here) [https://forums.unrealengine.com/community/community-content-tools-and-tutorials/41043-advanced-sessions-plugin?69901-Advanced-Sessions-Plugin=], based on the version you have.
+In order to play this game, you need to have Unreal Engine 4.2+ installed. Then clone this repository and start the project. Delete the contents in your plugins folder and replace with the contents found [here](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/41043-advanced-sessions-plugin?69901-Advanced-Sessions-Plugin=), based on the version you have.
 
 ## 1 Introduction
 
