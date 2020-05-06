@@ -10,6 +10,8 @@ Here's the link to our demo of the project.
 
 In order to play this game, you need to have Unreal Engine 4.2+ installed. Then clone this repository and start the project. Delete the contents in your plugins folder and replace with the contents found [here](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/41043-advanced-sessions-plugin?69901-Advanced-Sessions-Plugin=), based on the version you have.
 
+Then launch Steam and hit play on your engine. You can either join an instance or start one! Enjoy the game!
+
 ## 1 Introduction
 
 ### 1.1 Objective
