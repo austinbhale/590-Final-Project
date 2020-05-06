@@ -75,11 +75,13 @@ user starts or stops firing locally, this notify
 instance alerts both the Network Authority
 and Remote Machine of the change in value.
 
+<p align="center">
+  <img src="img/bp2.png">
+</p>
+
 ```
-Figure 1: This custom event replicates the
-client’s pawn movements to the server. When the
-event is called with authority, the server pawn’s
-movements cast to the client.
+Figure 1: This custom event replicates the client’s pawn movements to the server. When the
+event is called with authority, the server pawn’s movements cast to the client.
 ```
 ### 2.3 Steam Multiplayer
 
@@ -87,9 +89,18 @@ We used Unreal Engine’s Advanced Session Plugin and Online Subsystem Steam to 
 The multiplayer is simply designed for one user to create the session and spawn the first person that
 is able to join successfully.
 
+<p align="center">
+  <img src="img/bp3.png">
+</p>
+
 ```
 Figure 2:The host creates a public multiplayer Steam session and open the game level.
 ```
+
+<p align="center">
+  <img src="img/bp4.png">
+</p>
+
 ```
 Figure 3:Another Steam player will join the created session.
 ```
@@ -130,7 +141,6 @@ are important in the field of VR development. In an optimal setting our results 
 factors that effect immersion in a virtual world. And analysing these factors in different settings will
 help game-makers and creators push their creative limits. Furthermore, multiplayer in VR is fairly
 untested, our analysis in these areas could help transform how VR is played.
-Github + Demo: https://github.com/austinbhale/590-Final-Project.
 
 ### 4.2 Challenges
 
