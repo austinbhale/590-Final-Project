@@ -1420,706 +1420,721 @@
 "../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1419
 "../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 1420
 "../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1421
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/TutorialFlipBook.uasset" 1422
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/TutorialSprite.uasset" 1423
-"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 1424
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1425
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1426
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 1427
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1428
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 1429
-"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 1430
-"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 1431
-"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 1432
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1433
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1434
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 1435
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1436
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 1437
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 1438
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 1439
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 1440
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8_SubUV.uasset" 1441
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 1442
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 1443
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 1444
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 1445
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 1446
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 1447
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 1448
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 1449
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 1450
-"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 1451
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 1452
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 1453
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 1454
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 1455
-"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 1456
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 1457
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 1458
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 1459
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 1460
-"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 1461
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 1462
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 1463
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 1464
-"../../../Engine/Content/VREditor/ViewportInteractionAssetContainerData.uasset" 1465
-"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 1466
-"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 1467
-"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 1468
-"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 1469
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 1470
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 1471
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 1472
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 1473
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 1474
-"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 1475
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 1476
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 1477
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 1478
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 1479
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 1480
-"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 1481
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 1482
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 1483
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 1484
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 1485
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 1486
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 1487
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 1488
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 1489
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 1490
-"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 1491
-"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 1492
-"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 1493
-"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 1494
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 1495
-"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 1496
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 1497
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 1498
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 1499
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 1500
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 1501
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 1502
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 1503
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 1504
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 1505
-"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 1506
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 1507
-"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 1508
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 1509
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 1510
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 1511
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 1512
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 1513
-"../../../Engine/Content/VREditor/UI/DockButton.uasset" 1514
-"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 1515
-"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 1516
-"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 1517
-"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 1518
-"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 1519
-"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 1520
-"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 1521
-"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 1522
-"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 1523
-"../../../Engine/Content/VREditor/VREditorAssetContainerData.uasset" 1524
-"../../../Engine/Content/VREditor/Devices/M_EngineLogo.uasset" 1525
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial_Inst.uasset" 1526
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerDiffuse.uasset" 1527
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerNormal.uasset" 1528
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMat.uasset" 1529
-"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMesh.uasset" 1530
-"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerDiffuse.uasset" 1531
-"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMaterial.uasset" 1532
-"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMesh.uasset" 1533
-"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim.uasset" 1534
-"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim_Inst.uasset" 1535
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_Trimlines.uasset" 1536
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial_Inst.uasset" 1537
-"../../../Engine/Content/VREditor/LaserPointer/M_LaserPointer-Core.uasset" 1538
-"../../../Engine/Content/VREditor/LaserPointer/M_LaserPointer-Outer.uasset" 1539
-"../../../Engine/Content/VREditor/Sounds/VR_click1.uasset" 1540
-"../../../Engine/Content/VREditor/Sounds/VR_click1_Cue.uasset" 1541
-"../../../Engine/Content/VREditor/Sounds/VR_click2.uasset" 1542
-"../../../Engine/Content/VREditor/Sounds/VR_click2_Cue.uasset" 1543
-"../../../Engine/Content/VREditor/Sounds/VR_click3.uasset" 1544
-"../../../Engine/Content/VREditor/Sounds/VR_click3_Cue.uasset" 1545
-"../../../Engine/Content/VREditor/Sounds/VR_close.uasset" 1546
-"../../../Engine/Content/VREditor/Sounds/VR_close_Cue.uasset" 1547
-"../../../Engine/Content/VREditor/Sounds/VR_confirm.uasset" 1548
-"../../../Engine/Content/VREditor/Sounds/VR_confirm_Cue.uasset" 1549
-"../../../Engine/Content/VREditor/Sounds/VR_grab.uasset" 1550
-"../../../Engine/Content/VREditor/Sounds/VR_grab_Cue.uasset" 1551
-"../../../Engine/Content/VREditor/Sounds/VR_negative.uasset" 1552
-"../../../Engine/Content/VREditor/Sounds/VR_negative_Cue.uasset" 1553
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01.uasset" 1554
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01_Cue.uasset" 1555
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02.uasset" 1556
-"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02_Cue.uasset" 1557
-"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop.uasset" 1558
-"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop_Cue.uasset" 1559
-"../../../Engine/Content/VREditor/Sounds/VR_open.uasset" 1560
-"../../../Engine/Content/VREditor/Sounds/VR_open_Cue.uasset" 1561
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01.uasset" 1562
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01_Cue.uasset" 1563
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02.uasset" 1564
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02_Cue.uasset" 1565
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03.uasset" 1566
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03_Cue.uasset" 1567
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04.uasset" 1568
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04_Cue.uasset" 1569
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01.uasset" 1570
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01_Cue.uasset" 1571
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02.uasset" 1572
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02_Cue.uasset" 1573
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03.uasset" 1574
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03_Cue.uasset" 1575
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04.uasset" 1576
-"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04_Cue.uasset" 1577
-"../../../Engine/Content/VREditor/Sounds/VR_teleport_Cue.uasset" 1578
-"../../../Engine/Content/VREditor/Sounds/VR_ungrab.uasset" 1579
-"../../../Engine/Content/VREditor/Sounds/VR_ungrab_Cue.uasset" 1580
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01.uasset" 1581
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01_Cue.uasset" 1582
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02.uasset" 1583
-"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02_Cue.uasset" 1584
-"../../../Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset" 1585
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 1586
-"../../../Engine/Content/VREditor/Sounds/UI/Enter_Play.uasset" 1587
-"../../../Engine/Content/VREditor/Sounds/UI/Enter_Simulate.uasset" 1588
-"../../../Engine/Content/VREditor/Sounds/UI/Flashlight_Switch.uasset" 1589
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-001.uasset" 1590
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-002.uasset" 1591
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close.uasset" 1592
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-002.uasset" 1593
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open.uasset" 1594
-"../../../Engine/Content/VREditor/Sounds/UI/Foliage_Placed.uasset" 1595
-"../../../Engine/Content/VREditor/Sounds/UI/Invalid_Action.uasset" 1596
-"../../../Engine/Content/VREditor/Sounds/UI/Laser_Pull.uasset" 1597
-"../../../Engine/Content/VREditor/Sounds/UI/Laser_Push.uasset" 1598
-"../../../Engine/Content/VREditor/Sounds/UI/Leave_Simulate.uasset" 1599
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Committed.uasset" 1600
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1601
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1602
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset" 1603
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Main.uasset" 1604
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 1605
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1606
-"../../../Engine/Content/VREditor/TransformGizmo/StretchingHandle.uasset" 1607
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateHandleLong.uasset" 1608
-"../../../Engine/Content/VREditor/TransformGizmo/TranslationHandle.uasset" 1609
-"../../../Engine/Content/VREditor/UI/KeyMaterial.uasset" 1610
-"../../../Engine/Content/VREditor/UI/FrameMaterial.uasset" 1611
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/NetworkPlayerStart_Blueprint.uasset" 1612
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1613
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 1614
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1615
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1616
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1617
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 1618
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPersonRun.uasset" 1619
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 1620
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1621
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1622
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 1422
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1423
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1424
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 1425
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1426
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 1427
+"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 1428
+"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 1429
+"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 1430
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1431
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1432
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 1433
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1434
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 1435
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 1436
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 1437
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 1438
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8_SubUV.uasset" 1439
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 1440
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 1441
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 1442
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 1443
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 1444
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 1445
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 1446
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 1447
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 1448
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 1449
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 1450
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 1451
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 1452
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 1453
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 1454
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 1455
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 1456
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 1457
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 1458
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 1459
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 1460
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 1461
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 1462
+"../../../Engine/Content/VREditor/ViewportInteractionAssetContainerData.uasset" 1463
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 1464
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 1465
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 1466
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 1467
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 1468
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 1469
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 1470
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 1471
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 1472
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 1473
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 1474
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 1475
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 1476
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 1477
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 1478
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 1479
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 1480
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 1481
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 1482
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 1483
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 1484
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 1485
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 1486
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 1487
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 1488
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 1489
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 1490
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 1491
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 1492
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 1493
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 1494
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 1495
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 1496
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 1497
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 1498
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 1499
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 1500
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 1501
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 1502
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 1503
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 1504
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 1505
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 1506
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 1507
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 1508
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 1509
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 1510
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 1511
+"../../../Engine/Content/VREditor/UI/DockButton.uasset" 1512
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 1513
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 1514
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 1515
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 1516
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 1517
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 1518
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 1519
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 1520
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 1521
+"../../../Engine/Content/VREditor/VREditorAssetContainerData.uasset" 1522
+"../../../Engine/Content/VREditor/Devices/M_EngineLogo.uasset" 1523
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial_Inst.uasset" 1524
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerDiffuse.uasset" 1525
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerNormal.uasset" 1526
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMat.uasset" 1527
+"../../../Engine/Content/VREditor/Devices/STEM/STEMControllerMesh.uasset" 1528
+"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerDiffuse.uasset" 1529
+"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMaterial.uasset" 1530
+"../../../Engine/Content/VREditor/Devices/Vive/ViveControllerMesh.uasset" 1531
+"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim.uasset" 1532
+"../../../Engine/Content/VREditor/Devices/Vive/M_ViveControllerTrim_Inst.uasset" 1533
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_Trimlines.uasset" 1534
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial_Inst.uasset" 1535
+"../../../Engine/Content/VREditor/LaserPointer/M_LaserPointer-Core.uasset" 1536
+"../../../Engine/Content/VREditor/LaserPointer/M_LaserPointer-Outer.uasset" 1537
+"../../../Engine/Content/VREditor/Sounds/VR_click1.uasset" 1538
+"../../../Engine/Content/VREditor/Sounds/VR_click1_Cue.uasset" 1539
+"../../../Engine/Content/VREditor/Sounds/VR_click2.uasset" 1540
+"../../../Engine/Content/VREditor/Sounds/VR_click2_Cue.uasset" 1541
+"../../../Engine/Content/VREditor/Sounds/VR_click3.uasset" 1542
+"../../../Engine/Content/VREditor/Sounds/VR_click3_Cue.uasset" 1543
+"../../../Engine/Content/VREditor/Sounds/VR_close.uasset" 1544
+"../../../Engine/Content/VREditor/Sounds/VR_close_Cue.uasset" 1545
+"../../../Engine/Content/VREditor/Sounds/VR_confirm.uasset" 1546
+"../../../Engine/Content/VREditor/Sounds/VR_confirm_Cue.uasset" 1547
+"../../../Engine/Content/VREditor/Sounds/VR_grab.uasset" 1548
+"../../../Engine/Content/VREditor/Sounds/VR_grab_Cue.uasset" 1549
+"../../../Engine/Content/VREditor/Sounds/VR_negative.uasset" 1550
+"../../../Engine/Content/VREditor/Sounds/VR_negative_Cue.uasset" 1551
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01.uasset" 1552
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_01_Cue.uasset" 1553
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02.uasset" 1554
+"../../../Engine/Content/VREditor/Sounds/VR_objectRotateLoop_02_Cue.uasset" 1555
+"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop.uasset" 1556
+"../../../Engine/Content/VREditor/Sounds/VR_object_grabbed_loop_Cue.uasset" 1557
+"../../../Engine/Content/VREditor/Sounds/VR_open.uasset" 1558
+"../../../Engine/Content/VREditor/Sounds/VR_open_Cue.uasset" 1559
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01.uasset" 1560
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_01_Cue.uasset" 1561
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02.uasset" 1562
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_02_Cue.uasset" 1563
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03.uasset" 1564
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_03_Cue.uasset" 1565
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04.uasset" 1566
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_down_04_Cue.uasset" 1567
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01.uasset" 1568
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_01_Cue.uasset" 1569
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02.uasset" 1570
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_02_Cue.uasset" 1571
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03.uasset" 1572
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_03_Cue.uasset" 1573
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04.uasset" 1574
+"../../../Engine/Content/VREditor/Sounds/VR_shep_scale_up_04_Cue.uasset" 1575
+"../../../Engine/Content/VREditor/Sounds/VR_teleport_Cue.uasset" 1576
+"../../../Engine/Content/VREditor/Sounds/VR_ungrab.uasset" 1577
+"../../../Engine/Content/VREditor/Sounds/VR_ungrab_Cue.uasset" 1578
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01.uasset" 1579
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_01_Cue.uasset" 1580
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02.uasset" 1581
+"../../../Engine/Content/VREditor/Sounds/VR_WorldMoveLoop_02_Cue.uasset" 1582
+"../../../Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset" 1583
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 1584
+"../../../Engine/Content/VREditor/Sounds/UI/Enter_Play.uasset" 1585
+"../../../Engine/Content/VREditor/Sounds/UI/Enter_Simulate.uasset" 1586
+"../../../Engine/Content/VREditor/Sounds/UI/Flashlight_Switch.uasset" 1587
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-001.uasset" 1588
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close-002.uasset" 1589
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Close.uasset" 1590
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-002.uasset" 1591
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open.uasset" 1592
+"../../../Engine/Content/VREditor/Sounds/UI/Foliage_Placed.uasset" 1593
+"../../../Engine/Content/VREditor/Sounds/UI/Invalid_Action.uasset" 1594
+"../../../Engine/Content/VREditor/Sounds/UI/Laser_Pull.uasset" 1595
+"../../../Engine/Content/VREditor/Sounds/UI/Laser_Push.uasset" 1596
+"../../../Engine/Content/VREditor/Sounds/UI/Leave_Simulate.uasset" 1597
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Committed.uasset" 1598
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1599
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1600
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset" 1601
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Main.uasset" 1602
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 1603
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1604
+"../../../Engine/Content/VREditor/TransformGizmo/StretchingHandle.uasset" 1605
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateHandleLong.uasset" 1606
+"../../../Engine/Content/VREditor/TransformGizmo/TranslationHandle.uasset" 1607
+"../../../Engine/Content/VREditor/UI/KeyMaterial.uasset" 1608
+"../../../Engine/Content/VREditor/UI/FrameMaterial.uasset" 1609
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/NetworkPlayerStart_Blueprint.uasset" 1610
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Gun_Content/Tex_0010_1_dds.uasset" 1611
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Gun_Content/AmmoBox_Mesh_0010.uasset" 1612
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1613
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 1614
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1615
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 1616
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 1617
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 1618
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPersonRun.uasset" 1619
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 1620
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 1621
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 1622
 "../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1623
 "../../../Engine/Content/BasicShapes/Cylinder.uasset" 1624
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Maps/a7/Treasure.uasset" 1625
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Maps/a7/TrapCoin.uasset" 1626
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 1627
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 1628
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 1629
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 1630
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 1631
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 1632
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 1633
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Collapse01.uasset" 1634
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Collapse02.uasset" 1635
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Explosion01.uasset" 1636
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Explosion02.uasset" 1637
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Fire01.uasset" 1638
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 1639
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Light01.uasset" 1640
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Light01_Cue.uasset" 1641
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Light02.uasset" 1642
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Light02_Cue.uasset" 1643
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Smoke01.uasset" 1644
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 1645
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Starter_Music01.uasset" 1646
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 1647
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 1648
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Steam01.uasset" 1649
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 1650
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Burst_M.uasset" 1651
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 1652
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 1653
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1654
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 1655
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1656
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1657
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1658
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1659
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/P_Explosion.uasset" 1660
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1661
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Maps/a7/Treasure.uasset" 1625
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Maps/a7/TrapCoin.uasset" 1626
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 1627
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 1628
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 1629
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 1630
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 1631
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 1632
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 1633
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Collapse01.uasset" 1634
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Collapse02.uasset" 1635
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Explosion01.uasset" 1636
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Explosion02.uasset" 1637
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Fire01.uasset" 1638
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 1639
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Light01.uasset" 1640
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Light01_Cue.uasset" 1641
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Light02.uasset" 1642
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Light02_Cue.uasset" 1643
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Smoke01.uasset" 1644
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 1645
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Starter_Music01.uasset" 1646
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 1647
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 1648
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Steam01.uasset" 1649
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 1650
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Burst_M.uasset" 1651
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 1652
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 1653
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1654
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 1655
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1656
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1657
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1658
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1659
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/P_Explosion.uasset" 1660
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1661
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1662
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1663
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Bush_D.uasset" 1664
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Bush_N.uasset" 1665
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 1666
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Bush.uasset" 1667
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Chair_M.uasset" 1668
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Chair_N.uasset" 1669
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 1670
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Couch.uasset" 1671
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Glass.uasset" 1672
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Door_M.uasset" 1673
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Door_N.uasset" 1674
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Door.uasset" 1675
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Door.uasset" 1676
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1677
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1678
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1679
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1680
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 1681
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 1682
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 1683
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 1684
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Rock.uasset" 1685
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 1686
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 1687
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 1688
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Shelf.uasset" 1689
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1690
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Stairs.uasset" 1691
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 1692
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1693
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 1694
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1695
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 1696
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 1697
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 1698
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 1699
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1700
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1701
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 1702
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 1703
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1704
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1705
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1706
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Colors/blue.uasset" 1707
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Maps/a7/BlueCoin.uasset" 1708
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Maps/a7/GoldCoin.uasset" 1709
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 1710
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Maps/a7/Pivot1.uasset" 1711
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/ThirdPersonMPGameInstance.uasset" 1712
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Maps/a7/Pivot.uasset" 1713
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Colors/red.uasset" 1714
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Maps/a7/RedCoin.uasset" 1715
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Maps/a7/RockCoin.uasset" 1716
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Interfaces/DamageInterface.uasset" 1717
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1718
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/UI/HealthBar.uasset" 1719
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Projectile.uasset" 1720
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Weapon.uasset" 1721
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1722
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1723
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1724
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1725
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1726
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1727
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 1728
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1729
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1730
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1731
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1732
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1733
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1734
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 1735
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Materials/CharClientSkin.uasset" 1736
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Materials/CharServerSkin.uasset" 1737
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1738
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1739
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 1740
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1741
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1742
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1743
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Blueprints/SteamGameInstance.uasset" 1744
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Steam/Steam_UI.uasset" 1745
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Maps/a7/VRPawn.uasset" 1746
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Steam/GM_Steam.uasset" 1747
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Steam/MainMenu.uasset" 1748
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Steam/P_State.uasset" 1749
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPerson/Meshes/RampMaterial.uasset" 1750
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 1751
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 1752
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 1753
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 1754
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 1755
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 1756
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Cylinder_Blueprint.uasset" 1757
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 1758
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter1.uasset" 1759
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/ThirdPersonPlayerController.uasset" 1760
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 1761
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/UI/SessionListMenu.uasset" 1762
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1763
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1764
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1765
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 1766
-"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 1767
-"../../Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset" 1768
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1769
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1770
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1771
-"../../Plugins/2D/Paper2D/Content/OpaqueLitSpriteMaterial.uasset" 1772
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1773
-"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 1774
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1775
-"../../Plugins/Developer/AnimationSharing/Content/AnimSharingBase.uasset" 1776
-"../../Plugins/Developer/AnimationSharing/Content/AnimSharingBlue.uasset" 1777
-"../../Plugins/Developer/AnimationSharing/Content/AnimSharingGreen.uasset" 1778
-"../../Plugins/Developer/AnimationSharing/Content/AnimSharingRed.uasset" 1779
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1780
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1781
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1782
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1783
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1784
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1785
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 1786
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 1787
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 1788
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 1789
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1790
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1791
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 1792
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1793
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 1794
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1795
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1796
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsStruct.uasset" 1797
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/cylinder.uasset" 1798
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/disc.uasset" 1799
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/sphere.uasset" 1800
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/square.uasset" 1801
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsTable.uasset" 1802
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Arealight.uasset" 1803
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 1804
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1805
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1806
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/AliasMaster.uasset" 1807
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 1808
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMasterUV.uasset" 1809
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/TileMirrorAxis.uasset" 1810
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/UVEdit.uasset" 1811
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 1812
-"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 1813
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMaster.uasset" 1814
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 1815
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 1816
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 1817
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 1818
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CropUV.uasset" 1819
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CroppedUVMapping.uasset" 1820
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1821
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Color.uasset" 1822
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/ExtractColor.uasset" 1823
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Material.uasset" 1824
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/HSVtoRGB.uasset" 1825
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/IFC_ColorMaster.uasset" 1826
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MirrorUVTiling.uasset" 1827
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 1828
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RevitMaster.uasset" 1829
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RGBtoHSV.uasset" 1830
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/SketchUpMaster.uasset" 1831
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 1832
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 1833
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 1834
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterAbsorb.uasset" 1835
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterClearCoat.uasset" 1836
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 1837
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDUVEdit.uasset" 1838
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDBase.uasset" 1839
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMaster.uasset" 1840
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterAbsorb.uasset" 1841
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterClearCoat.uasset" 1842
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterTransparent.uasset" 1843
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 1844
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 1845
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 1846
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 1847
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 1848
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 1849
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 1850
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/BrushedMetal.uasset" 1851
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Chrome.uasset" 1852
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 1853
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 1854
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/RemapDistribution.uasset" 1855
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/CellularFlakes.uasset" 1856
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/SimplifiedFlakes.uasset" 1857
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/MetallicCarpaint.uasset" 1858
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 1859
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 1860
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UnicolorCarpaint.uasset" 1861
-"../../Plugins/Enterprise/DatasmithContent/Content/Textures/S_LightArea.uasset" 1862
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 1863
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1864
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset" 1865
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1866
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1867
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1868
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1869
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 1870
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 1871
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 1872
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 1873
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 1874
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 1875
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 1876
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 1877
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 1878
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 1879
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 1880
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 1881
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 1882
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo.uasset" 1883
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial.uasset" 1884
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController.uasset" 1885
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 1886
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead.uasset" 1887
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem.uasset" 1888
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1889
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 1890
-"../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset" 1891
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1892
-"../../../Engine/Content/Maps/Entry.umap" 1893
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1894
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1895
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1896
-"../../../Engine/Content/Maps/Templates/TimeOfDay_Default_BuiltData.uasset" 1897
-"../../../Engine/Content/EngineSky/M_SkyTimeOfDay.uasset" 1898
-"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_02_Metal.uasset" 1899
-"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 1900
-"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uasset" 1901
-"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset" 1902
-"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uasset" 1903
-"../../../Engine/Content/Maps/Templates/TimeOfDay_Default.umap" 1904
-"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1905
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1906
-"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1907
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1908
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1909
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1910
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1911
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1912
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1913
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1914
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1915
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1916
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1917
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1918
-"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1919
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1920
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1921
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1922
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1923
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1924
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1925
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1926
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1927
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1928
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1929
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1930
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1931
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1932
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1933
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1934
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1935
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1936
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1937
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1938
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1939
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 1940
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1941
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 1942
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1943
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1944
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1945
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1946
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1947
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1948
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Statue_M.uasset" 1949
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Statue_N.uasset" 1950
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1951
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 1952
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1953
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Chair.uasset" 1954
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 1955
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Statue.uasset" 1956
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 1957
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 1958
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1959
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_TableRound.uasset" 1960
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Maps/Minimal_Default.umap" 1961
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 1962
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1963
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1964
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1965
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Water_N.uasset" 1966
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1967
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1968
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/P_Fire.uasset" 1969
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1970
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1971
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/P_Smoke.uasset" 1972
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1973
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1974
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 1975
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1976
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/P_Sparks.uasset" 1977
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1978
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 1979
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1980
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1981
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 1982
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 1983
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1984
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1985
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1986
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1987
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1988
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1989
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1990
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1991
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1992
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1993
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1994
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1995
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1996
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1997
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1998
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1999
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 2000
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 2001
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 2002
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 2003
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 2004
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 2005
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 2006
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 2007
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 2008
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 2009
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 2010
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 2011
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 2012
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 2013
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 2014
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2015
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2016
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2017
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2018
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2019
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 2020
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2021
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2022
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 2023
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 2024
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 2025
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 2026
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2027
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 2028
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 2029
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2030
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2031
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 2032
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2033
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2034
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 2035
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 2036
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 2037
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 2038
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 2039
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 2040
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 2041
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 2042
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 2043
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 2044
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 2045
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 2046
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 2047
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 2048
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 2049
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 2050
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 2051
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 2052
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 2053
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 2054
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 2055
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 2056
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 2057
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 2058
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 2059
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 2060
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 2061
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 2062
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 2063
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 2064
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 2065
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 2066
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 2067
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 2068
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 2069
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 2070
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 2071
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 2072
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 2073
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 2074
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 2075
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 2076
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 2077
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 2078
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 2079
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Water_M.uasset" 2080
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 2081
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2082
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2083
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2084
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 2085
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 2086
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 2087
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 2088
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 2089
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 2090
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 2091
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 2092
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 2093
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 2094
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 2095
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 2096
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 2097
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 2098
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 2099
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 2100
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 2101
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 2102
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 2103
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/MaterialSphere.uasset" 2104
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Frame_M.uasset" 2105
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Frame_N.uasset" 2106
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 2107
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 2108
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 2109
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 2110
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 2111
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 2112
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 2113
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 2114
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2115
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2116
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/StarterContent/Maps/StarterMap.umap" 2117
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Steam/MainMenuLevel.umap" 2118
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 2119
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Geometry/Meshes/CubeMaterial.uasset" 2120
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Geometry/Meshes/1M_Cube.uasset" 2121
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2122
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/Geometry/Meshes/TemplateFloor.uasset" 2123
-"../../../../../../Users/halea/Documents/Unreal Projects/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 2124
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1663
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Bush_D.uasset" 1664
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Bush_N.uasset" 1665
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 1666
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Bush.uasset" 1667
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Chair_M.uasset" 1668
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Chair_N.uasset" 1669
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 1670
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Couch.uasset" 1671
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Glass.uasset" 1672
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Door_M.uasset" 1673
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Door_N.uasset" 1674
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Door.uasset" 1675
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Door.uasset" 1676
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1677
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1678
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1679
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1680
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 1681
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 1682
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 1683
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 1684
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Rock.uasset" 1685
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 1686
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 1687
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 1688
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Shelf.uasset" 1689
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1690
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Stairs.uasset" 1691
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 1692
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1693
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 1694
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1695
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 1696
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 1697
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 1698
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 1699
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1700
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1701
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 1702
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 1703
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1704
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1705
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1706
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1707
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1708
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 1709
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1710
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1711
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1712
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1713
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1714
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Gun_Content/Tex_0009_1_dds.uasset" 1715
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Gun_Content/AmmoBox_Mesh_0009.uasset" 1716
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Gun_Content/AmmoBox_Mesh_0011.uasset" 1717
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/AmmoBox.uasset" 1718
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Colors/blue.uasset" 1719
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Maps/a7/BlueCoin.uasset" 1720
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Maps/a7/GoldCoin.uasset" 1721
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 1722
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Maps/a7/Pivot1.uasset" 1723
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/ThirdPersonMPGameInstance.uasset" 1724
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Maps/a7/Pivot.uasset" 1725
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Colors/red.uasset" 1726
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Maps/a7/RedCoin.uasset" 1727
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Maps/a7/RockCoin.uasset" 1728
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Interfaces/DamageInterface.uasset" 1729
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1730
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Sounds/hit.uasset" 1731
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/UI/HealthBar.uasset" 1732
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Projectile.uasset" 1733
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Gun_Content/257_2.uasset" 1734
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Gun_Content/01_-_Default.uasset" 1735
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Gun_Content/1911_gunbody.uasset" 1736
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Gun_Content/1911_slidetrigger.uasset" 1737
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Weapon.uasset" 1738
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1739
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1740
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1741
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1742
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1743
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1744
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 1745
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1746
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1747
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1748
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1749
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1750
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1751
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 1752
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Materials/CharClientSkin.uasset" 1753
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Materials/CharServerSkin.uasset" 1754
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1755
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1756
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 1757
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 1758
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1759
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 1760
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Blueprints/SteamGameInstance.uasset" 1761
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Steam/Steam_UI.uasset" 1762
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Sounds/ammo.uasset" 1763
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Sounds/bullet.uasset" 1764
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Sounds/no_ammo.uasset" 1765
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Sounds/start.uasset" 1766
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/UserWidget.uasset" 1767
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Maps/a7/VRPawn.uasset" 1768
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Steam/GM_Steam.uasset" 1769
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Steam/MainMenu.uasset" 1770
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Steam/P_State.uasset" 1771
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPerson/Meshes/RampMaterial.uasset" 1772
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 1773
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 1774
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 1775
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 1776
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 1777
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 1778
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/Cylinder_Blueprint.uasset" 1779
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 1780
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter1.uasset" 1781
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/ThirdPersonPlayerController.uasset" 1782
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 1783
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Blueprints/UI/SessionListMenu.uasset" 1784
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1785
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1786
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1787
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 1788
+"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 1789
+"../../Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset" 1790
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1791
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1792
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1793
+"../../Plugins/2D/Paper2D/Content/OpaqueLitSpriteMaterial.uasset" 1794
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1795
+"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 1796
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1797
+"../../Plugins/Developer/AnimationSharing/Content/AnimSharingBase.uasset" 1798
+"../../Plugins/Developer/AnimationSharing/Content/AnimSharingBlue.uasset" 1799
+"../../Plugins/Developer/AnimationSharing/Content/AnimSharingGreen.uasset" 1800
+"../../Plugins/Developer/AnimationSharing/Content/AnimSharingRed.uasset" 1801
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1802
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1803
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1804
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1805
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1806
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1807
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 1808
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 1809
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 1810
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 1811
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1812
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1813
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 1814
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1815
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 1816
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1817
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1818
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsStruct.uasset" 1819
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/cylinder.uasset" 1820
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/disc.uasset" 1821
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/sphere.uasset" 1822
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/square.uasset" 1823
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsTable.uasset" 1824
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Arealight.uasset" 1825
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 1826
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1827
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1828
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/AliasMaster.uasset" 1829
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 1830
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMasterUV.uasset" 1831
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/TileMirrorAxis.uasset" 1832
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/UVEdit.uasset" 1833
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 1834
+"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 1835
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMaster.uasset" 1836
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 1837
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 1838
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 1839
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 1840
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CropUV.uasset" 1841
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CroppedUVMapping.uasset" 1842
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1843
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Color.uasset" 1844
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/ExtractColor.uasset" 1845
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Material.uasset" 1846
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/HSVtoRGB.uasset" 1847
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/IFC_ColorMaster.uasset" 1848
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MirrorUVTiling.uasset" 1849
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 1850
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RevitMaster.uasset" 1851
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RGBtoHSV.uasset" 1852
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/SketchUpMaster.uasset" 1853
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 1854
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 1855
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 1856
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterAbsorb.uasset" 1857
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterClearCoat.uasset" 1858
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 1859
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDUVEdit.uasset" 1860
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDBase.uasset" 1861
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMaster.uasset" 1862
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterAbsorb.uasset" 1863
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterClearCoat.uasset" 1864
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterTransparent.uasset" 1865
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 1866
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 1867
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 1868
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 1869
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 1870
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 1871
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 1872
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/BrushedMetal.uasset" 1873
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Chrome.uasset" 1874
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 1875
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 1876
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/RemapDistribution.uasset" 1877
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/CellularFlakes.uasset" 1878
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/SimplifiedFlakes.uasset" 1879
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/MetallicCarpaint.uasset" 1880
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 1881
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 1882
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UnicolorCarpaint.uasset" 1883
+"../../Plugins/Enterprise/DatasmithContent/Content/Textures/S_LightArea.uasset" 1884
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 1885
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1886
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset" 1887
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1888
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1889
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1890
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1891
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 1892
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 1893
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 1894
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 1895
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 1896
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 1897
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 1898
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 1899
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 1900
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 1901
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 1902
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 1903
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 1904
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo.uasset" 1905
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial.uasset" 1906
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController.uasset" 1907
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 1908
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead.uasset" 1909
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem.uasset" 1910
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1911
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 1912
+"../../Plugins/Runtime/ResonanceAudio/Content/VisualizationMeshMaterial.uasset" 1913
+"../../Plugins/Runtime/Steam/SteamAudio/Content/S_PhononProbe_16.uasset" 1914
+"../../Plugins/Runtime/Steam/SteamAudio/Content/S_PhononProbe_64.uasset" 1915
+"../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset" 1916
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/TutorialFlipBook.uasset" 1917
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/TutorialSprite.uasset" 1918
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1919
+"../../../Engine/Content/Maps/Entry.umap" 1920
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1921
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1922
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1923
+"../../../Engine/Content/Maps/Templates/TimeOfDay_Default_BuiltData.uasset" 1924
+"../../../Engine/Content/EngineSky/M_SkyTimeOfDay.uasset" 1925
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_02_Metal.uasset" 1926
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 1927
+"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uasset" 1928
+"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset" 1929
+"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uasset" 1930
+"../../../Engine/Content/Maps/Templates/TimeOfDay_Default.umap" 1931
+"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1932
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1933
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1934
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1935
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1936
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1937
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1938
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1939
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1940
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1941
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1942
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1943
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1944
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1945
+"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1946
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1947
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1948
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1949
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1950
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1951
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1952
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1953
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1954
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1955
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1956
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1957
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1958
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1959
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1960
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1961
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1962
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1963
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1964
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1965
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 1966
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1967
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1968
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1969
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Statue_M.uasset" 1970
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Statue_N.uasset" 1971
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1972
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 1973
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1974
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Chair.uasset" 1975
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 1976
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Statue.uasset" 1977
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 1978
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 1979
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1980
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_TableRound.uasset" 1981
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Maps/Minimal_Default.umap" 1982
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 1983
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1984
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1985
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1986
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Water_N.uasset" 1987
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1988
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1989
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/P_Fire.uasset" 1990
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1991
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1992
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/P_Smoke.uasset" 1993
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1994
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1995
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 1996
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1997
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/P_Sparks.uasset" 1998
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1999
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 2000
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 2001
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 2002
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 2003
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 2004
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 2005
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 2006
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 2007
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 2008
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 2009
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 2010
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 2011
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 2012
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 2013
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 2014
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 2015
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 2016
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 2017
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 2018
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 2019
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 2020
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 2021
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 2022
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 2023
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 2024
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 2025
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 2026
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 2027
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 2028
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 2029
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 2030
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 2031
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 2032
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 2033
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2034
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2035
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2036
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2037
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2038
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 2039
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2040
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2041
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 2042
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 2043
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 2044
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 2045
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2046
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 2047
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 2048
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2049
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2050
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 2051
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2052
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2053
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 2054
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 2055
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 2056
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 2057
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 2058
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 2059
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 2060
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 2061
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 2062
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 2063
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 2064
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 2065
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 2066
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 2067
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 2068
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 2069
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 2070
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 2071
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 2072
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 2073
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 2074
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 2075
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 2076
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 2077
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 2078
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 2079
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 2080
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 2081
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 2082
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 2083
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 2084
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 2085
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 2086
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 2087
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 2088
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 2089
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 2090
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 2091
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 2092
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 2093
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 2094
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 2095
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Water_M.uasset" 2096
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 2097
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2098
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2099
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2100
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 2101
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 2102
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 2103
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 2104
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 2105
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 2106
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 2107
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 2108
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 2109
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 2110
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 2111
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 2112
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 2113
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 2114
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 2115
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 2116
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 2117
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 2118
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 2119
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/MaterialSphere.uasset" 2120
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Frame_M.uasset" 2121
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Textures/T_Frame_N.uasset" 2122
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 2123
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 2124
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 2125
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 2126
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 2127
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 2128
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 2129
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 2130
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2131
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2132
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/StarterContent/Maps/StarterMap.umap" 2133
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Steam/MainMenuLevel.umap" 2134
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Geometry/Meshes/CubeMaterial.uasset" 2135
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Geometry/Meshes/1M_Cube.uasset" 2136
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2137
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/Geometry/Meshes/TemplateFloor.uasset" 2138
+"../../../../../../Users/Surya/Desktop/Surya/Unreal/590-Final-Project/590FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 2139
